@@ -1,11 +1,38 @@
-# Getting Started with Create React App
+# 🛒 Amazon Clone Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a **React.js-based Amazon Clone** built as a tutorial project. It replicates the front-end design and basic functionality of Amazon’s shopping platform — including product listings, user authentication, and checkout flow — using modern web development tools.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
+- 🧩 **React.js Frontend** — built using React components and hooks  
+- 🎨 **CSS Styling** — responsive design inspired by Amazon UI  
+- 🔐 **Firebase Authentication** — login, signup, and logout functionality  
+- 🛍️ **Shopping Cart** — add, remove, and manage products in the basket  
+- 💳 **Payment Page (UI Only)** — mock checkout flow for demonstration  
+- ☁️ **Firebase Hosting** — can be deployed easily online
+
+---
+
+## 🧰 Technologies Used
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **Firebase (Auth & Hosting)**
+- **React Router DOM**
+- **CSS3 / Flexbox**
+- **VS Code**
+
+---
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally 👇
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/mashho/amazon-clone-tutorial.git
 ### `npm start`
 
 Runs the app in the development mode.\
